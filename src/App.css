@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.w-heatmap-week {
+  color: white;
+}
+
+[text-anchor] {
+  color: white;
+}
+
+/* ..... */
+
+.form-container {
+  max-width: 350px;
+  max-height: 400px;
+}
+
+.form-textarea {
+  padding-top: 20px;
+  max-height: 350px;
+}
+
+.modal {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.heatmap-header {
+  text-align: left;
+  text-indent: 20px;
+}
+
+.preview-heatmap {
+  background-color: black;
+}
